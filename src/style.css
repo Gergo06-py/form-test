@@ -1,0 +1,17 @@
+body {
+	background: linear-gradient(135deg, pink, lightsalmon);
+	backdrop-filter: brightness(80%);
+}
+
+.container {
+	display: grid;
+	min-height: 100vh;
+}
+
+form {
+	background: linear-gradient(135deg, pink, lightsalmon);
+	min-height: 80vh;
+	align-self: center;
+	border: 2px solid white;
+	border-radius: 10px;
+}
